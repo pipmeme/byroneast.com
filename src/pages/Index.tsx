@@ -44,17 +44,8 @@ const Index = () => {
               transition={{ duration: 0.7, delay: 0.15 }}
               className="mt-5 font-serif text-3xl leading-[1.12] sm:text-5xl md:text-6xl lg:text-7xl"
             >
-              Your team inside
-              <br className="hidden sm:block" /> China's factories.
+              Working with emerging &amp; established ecom founders
             </motion.h1>
-            <motion.p
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ duration: 0.6, delay: 0.35 }}
-              className="mt-4 text-sm font-medium uppercase tracking-[0.15em] text-accent/70 sm:text-base"
-            >
-              Working with emerging & established ecom founders
-            </motion.p>
             <motion.p
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
